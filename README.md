@@ -1,16 +1,48 @@
-## Hi there 👋
 
-<!--
-**shivanshjaiswal-bly/shivanshjaiswal-bly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Shivansh Jaiswal 👋
 
-Here are some ideas to get you started:
+### 💻 Computer Science Student | Developer | Builder
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Computer Science student who enjoys building practical projects,
+learning new technologies, and solving programming problems.
+
+I’m currently focused on improving my development skills and exploring
+areas like **Cloud Computing, AI, and modern web development**.
+
+---
+
+## 🚀 What I'm Currently Working On
+
+### 🌐 StudySphere
+A student-focused learning and collaboration platform where students
+and teachers can connect, create study rooms, share resources, and
+learn from each other.
+
+---
+
+## 🧰 Tools & Technologies
+
+- HTML
+- CSS
+- JavaScript
+- Git
+- GitHub
+- VS Code
+- AWS / Cloud Computing
+- AI & Machine Learning — Exploring
+
+---
+
+## 📚 Currently Learning
+
+```text
+Web Development
+     ↓
+Cloud Computing
+     ↓
+    AWS
+     ↓
+AI/Machine Learning
+     ↓
+Building Real Projects
+
